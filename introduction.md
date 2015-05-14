@@ -1,3 +1,3 @@
-Javascript
-PHP
-Java
+* Javascript
+* PHP
+* Java
